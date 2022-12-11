@@ -9,8 +9,6 @@ const addFeature = plugin(function ({ addUtilities }) {
   })
 })
 
-
-
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
